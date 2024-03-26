@@ -93,6 +93,7 @@ const background2Image = `url("${background2}")`;
                         <div className="row d-flex justify-content-center align-items-baseline">
                             <div className="col-6 d-flex justify-content-center align-items-center">
                                 <div>
+                                    
                                     <div className="slide_2_guess">
                                         <img src={sunnydayIcon} alt="Sunny day at a beach" />
                                     </div>
